@@ -1,6 +1,6 @@
 # FEES PAYMENT PROJECT
 
-## Description
+## DESCRIPTION
 - This project facilitates a user to select the fee for a specific course
 ## REQUIREMENTS
 - Eclipse IDE
