@@ -8,6 +8,7 @@
 
 ## INSTRUCTIONS
 - Download the FeePayment.java file along with FeeStruct.json file
+- Save them in eclipse-workspace folder
 - Enter the FeeStruct.json file path inside the FeePayment.java at the mentioned position
 
 ## EXECUTION
