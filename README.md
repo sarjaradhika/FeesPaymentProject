@@ -7,11 +7,15 @@
 - Eclipse IDE
 
 ## INSTRUCTIONS
-- Download the the FeePayment.java file along with FeeStruct.json file
+- Download the FeePayment.java file along with FeeStruct.json file
 - Enter the FeeStruct.json file path inside the FeePayment.java at the mentioned position
 
 ## EXECUTION
-- Run the FeePayment.java program to get the fee for a specific course
+- Run the FeePayment.java program to get the fee for a specific course using Eclipse IDE
+
+## CREDITS
+- Sharath Madhuranath (Project Assignment)
+- Sarja Radhika (Project Development)
 
 ## HELP
 - In case of any difficulties while executing the program please contact Sarja Radhika via sarjaradhika@gmail.com
