@@ -1,19 +1,19 @@
 # FEES PAYMENT PROJECT
 
 ## DESCRIPTION
-- This project facilitates a user to get the fee for a specific course
+- This project facilitates a user to get the fee amount for a particular course 
 
 ## REQUIREMENTS
-- Eclipse IDE
+- JAVA compiler
 
 ## INSTRUCTIONS
-- Enter the FeeStruct.json file path inside the FeePayment.java at the mentioned position
-- Run the FeePayment.java program to get the fee for a specific course using Eclipse IDE
+- Enter the input JSON file(FeeStruct.json)path inside FeePayment.java file
+- Run the FeePayment.java program to get the fee for a particular course using JAVA compiler
 
 ## CREDITS
 - Sharath Madhuranath (Project Assignment)
 - Sarja Radhika (Project Development)
 
 ## HELP
-- In case of any difficulties while executing the program please contact Sarja Radhika via sarjaradhika@gmail.com
+- In case of any assistance/suggestions regarding this program please contact Sarja Radhika via sarjaradhika@gmail.com
 
